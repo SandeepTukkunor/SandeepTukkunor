@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandeepTukkunor
-- 👀 I’m interested in Data Science and Full Stack Development 
-- 🌱 I’m currently Working As Software Developer.
+- 👀 Interested in Data Science and Full Stack Development 
+- 🌱 Currently Working As Software Developer.
 - 💞️ On the daily Basis I work on building API with DRF 
 <a href="https://twitter.com/sandeeptukkunor">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
