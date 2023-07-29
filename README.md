@@ -3,10 +3,10 @@
 - 🌱 Currently Working As Software Developer.
 - 💞️ On the daily Basis I work on building API with DRF 
 <a href="https://twitter.com/sandeeptukkunor">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Sandeep | Twitter" width="22px" src="images/twitter.jpeg" />
 </a>
 <a href="https://www.linkedin.com/in/sandeep-tukkunor-012322133/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
+  <img align="left" alt="Sandeep LinkedIN" width="22px" src="images/linkedin.svg" />
 </a>
 
 <!---
